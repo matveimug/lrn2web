@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62527020-91ec-4d20-a59d-743d4c9600fa" name="madisvaher" url="http://madisvaher.ee">
+        <fileTransfer host="madisvaher.ee" port="21" rootFolder="/public_html/lrn2web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

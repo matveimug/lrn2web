@@ -16,7 +16,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
+    background: linear-gradient(135deg, #89ff8d 0%,#07ffb0 100%);
     background-size: cover;
     background-position: center;
     font-family: Lato;
@@ -140,6 +140,20 @@ i {
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
+
+.input-to-win {
+    top: 330px;
+}
+.input-to-win input {
+    display: inline-block;
+    max-width: 80px;
+    margin-right: 1em;
+    padding: 1em;
+    height: 42px;
+    background: none;
+    border: 1px solid #EB4D4D;
+    color: #EB4D4D;
+}
 
 .dice {
     position: absolute;
